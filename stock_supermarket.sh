@@ -7,4 +7,9 @@ mv delivery/eggo_waffles.txt freezer
 mv delivery/fage_yogurt.txt dairy
 mv delivery/fig_bars.txt snax
 mv delivery/flourless_cake dessert
-mv garlic.txt 
+mv delivery/garlic.txt veggies
+mv delivery/goldfish.txt snax
+mv delivery/grapples.txt fruit
+mv delivery/hotdogs.txt meat
+mv delivery/icecream.txt freezer
+mv delivery/lamb_ribs.txt meat
