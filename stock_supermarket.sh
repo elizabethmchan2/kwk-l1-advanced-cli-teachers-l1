@@ -1,1 +1,4 @@
-for number in {1..10}doecho "$number "doneexit 0
+for number in {1..10}
+do
+echo "$number "
+end
