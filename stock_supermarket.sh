@@ -1,7 +1,4 @@
-counter=1
-until [ $counter -gt 10 ]
+for i in 1 2 3 4 5
 do
-  echo $counter
-  ((counter++))
+   echo "Welcome $i times"
 done
-echo All done
