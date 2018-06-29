@@ -1,5 +1,4 @@
-total=20
-for
-do
-   echo "Welcome $USER times"
-done
+for (( i = 0; i <= $length; i++ )) 
+do 
+       echo "do something right $i"
+don
