@@ -22,4 +22,7 @@ mv delivery/oreos.txt snax;
 mv delivery/potatoes.txt veggies;
 mv delivery/salmon_steak.txt freezer;
 mv delivery/tiramisu_cake.txt dessert;
-mv delivery/tomatoes.txt 
+mv delivery/tomatoes.txt fruit;
+mv delivery/trail_mix.txt snax;
+mv delivery/turkey_breast.txt meat;
+mv delivery/velveeta_cheese.txt dairy;
