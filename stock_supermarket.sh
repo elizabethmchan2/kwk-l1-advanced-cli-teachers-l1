@@ -1,5 +1,5 @@
 max=10
-for (i=2; i <= $max; ++i )
+for i in `eval "echo {2..$max}"`
 do
     echo "$i"
 done
