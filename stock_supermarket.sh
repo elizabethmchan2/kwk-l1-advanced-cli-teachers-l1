@@ -1,5 +1,5 @@
-
-for i in 1 2 3 4 5
+total = 20
+for i in total
 do
    echo "Welcome $USER times"
 done
