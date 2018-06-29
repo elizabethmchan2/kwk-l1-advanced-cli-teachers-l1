@@ -6,7 +6,7 @@ mv delivery/carrot_cake.txt dessert;
 mv delivery/eggo_waffles.txt freezer;
 mv delivery/fage_yogurt.txt dairy;
 mv delivery/fig_bars.txt snax;
-mv delivery/flourless_cake dessert;
+mv delivery/flourless_cake.txt dessert;
 mv delivery/garlic.txt veggies;
 mv delivery/goldfish.txt snax;
 mv delivery/grapples.txt fruit;
