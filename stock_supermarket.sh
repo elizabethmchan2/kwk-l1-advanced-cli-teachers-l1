@@ -20,4 +20,6 @@ mv delivery/milk.txt dairy;
 mv delivery/mint_milano_cookies.txt snax;
 mv delivery/oreos.txt snax;
 mv delivery/potatoes.txt veggies;
-mv delivery/salmon_steak.txt 
+mv delivery/salmon_steak.txt freezer;
+mv delivery/tiramisu_cake.txt dessert;
+mv delivery/tomatoes.txt 
